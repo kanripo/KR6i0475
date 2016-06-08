@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:34.519053
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:43
 #+TITLE: 佛說菩薩內習六波羅蜜經
 #+PROPERTY: CBETA_ID T17n0778
 #+PROPERTY: ID KR6i0475
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 778
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0475_T_000-0714b>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0475_T_001-0714b> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.778¶
-
- 《佛說菩薩內習六波羅蜜經》¶
+No. 778¶
+《佛說菩薩內習六波羅蜜經》¶
 ¶
 後漢臨淮沙門嚴佛調譯¶
 
@@ -127,7 +126,7 @@ No.778¶
 　第七不退轉菩薩、
 　第八童真菩薩、¶
 　第九了生菩薩、
-　第十補處菩薩。
+　第十補處菩薩。」
 #+END_VERSE
-」¶
+¶
 《佛說菩薩內習六波羅蜜經》
